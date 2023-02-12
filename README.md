@@ -12,8 +12,8 @@ This project is about a beverage search engine with an API, it is developed with
 <div align="center">
 <img src="src/img/screenPhone.png" >
 </div>
-# Install
 
+# Install
 ```sh
 git clone https://github.com/asalinasf/search-drinks/
 cd search-drinks
